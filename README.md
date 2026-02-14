@@ -1,2 +1,3 @@
-# sc-cli-fork
-Forked standalone sc-cli crate (v0.55.0) with Trinity-specific runtime instance cap adjustments.
+Substrate CLI library.
+
+License: GPL-3.0-or-later WITH Classpath-exception-2.0
